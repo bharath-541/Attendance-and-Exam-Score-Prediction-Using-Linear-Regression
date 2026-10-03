@@ -8,7 +8,7 @@ ROOT = Path(__file__).resolve().parent
 st.set_page_config(page_title='Attendance and Achievement', page_icon='📚')
 st.title('Attendance and Achievement')
 st.caption('ML Case Study 49 · Perni Bharath Raghavendra · Mark Zuckerberg Cohort')
-st.markdown('[GitHub repository]('+github+')')
+st.markdown('[GitHub repository](https://github.com/bharath-541/Attendance-and-Exam-Score-Prediction-Using-Linear-Regression)')
 st.write('Estimate an exam score using attendance and nine other inputs.')
 st.caption('Demonstration using synthetic student records. Predictions are estimates.')
 
