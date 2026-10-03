@@ -1,0 +1,11 @@
+{
+  "dataset": "Student Performance Factors",
+  "publisher": "Lai Nguyen",
+  "kaggle_url": "https://www.kaggle.com/datasets/lainguyn123/student-performance-factors",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/lainguyn123/student-performance-factors?datasetVersionNumber=9",
+  "version": 9,
+  "license": "CC0: Public Domain",
+  "csv_sha256": "e8df8c4148ef83fb295ca1c092f2c6ee15272c0a8e3018b769a788ab50e96e97",
+  "provenance_note": "Kaggle card does not document institutional collection. Published research explicitly describes this dataset as synthetic; use for teaching and do not claim real institutional evidence.",
+  "synthetic_source": "https://www.mdpi.com/2078-2489/16/9/763"
+}
